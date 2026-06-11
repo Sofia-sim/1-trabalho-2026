@@ -3,6 +3,11 @@ body{
 }
 nav {
   align-items: center;
-z-index: unset;
 }
 
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
