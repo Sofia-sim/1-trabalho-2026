@@ -3,4 +3,11 @@ body{
 }
 nav {
   align-items: center;
+
+}
+
+header {
+  border: 200;
+  border-radius: 50;
+
 }
