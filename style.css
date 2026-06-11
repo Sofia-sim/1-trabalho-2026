@@ -3,11 +3,6 @@ body{
 }
 nav {
   align-items: center;
-
+z-index: unset;
 }
 
-header {
-  border: 200;
-  border-radius: 50;
-
-}
